@@ -1,0 +1,10 @@
+target/*
+.classpath
+.project
+.settings/*
+/target/
+test.script
+test.properties
+test.log
+test.lck
+test.tmp/*
